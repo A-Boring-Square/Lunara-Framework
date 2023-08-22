@@ -17,7 +17,7 @@ Performance Optimization: Cnode doesn't sacrifice performance for ease of use. U
 Custom Components: Need something unique? Cnode lets you create custom components by defining the C code they encapsulate. This means you can extend the language's capabilities as you see fit.
 
 Version Control: Just like traditional coding, your Cnode projects are version-controlled. Collaborate with your team, track changes, and revert to earlier versions when needed.
-
+                     
 Transpilation to C: Behind the scenes, Cnode transpiles your visual programs into well-structured C code. This code is clean, concise, and ready for compilation using your favorite C compiler.
 
 Learning Resources: Whether you're new to programming or an experienced developer, Cnode provides extensive learning resources. Learn the principles of C while building real applications visually.
