@@ -1,3 +1,10 @@
+
+   ______                __   
+  / ____/___  ____  ____/ /__ 
+ / /   / __ \/ __ \/ __  / _ \
+/ /___/ / / / /_/ / /_/ /  __/
+\____/_/ /_/\____/\__,_/\___/ 
+
 Welcome to the world of Cnode: Visual Programming with the Power of C!
 
 In the realm of programming languages, innovation and ease of use go hand in hand. Introducing Cnode, a revolutionary visual programming language designed to bring the power of C to both experienced developers and newcomers alike. With Cnode, you'll be able to harness the raw performance of C without the complexities of traditional text-based coding.
