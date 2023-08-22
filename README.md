@@ -1,9 +1,4 @@
 
-   ______                __   
-  / ____/___  ____  ____/ /__ 
- / /   / __ \/ __ \/ __  / _ \
-/ /___/ / / / /_/ / /_/ /  __/
-\____/_/ /_/\____/\__,_/\___/ 
 
 Welcome to the world of Cnode: Visual Programming with the Power of C!
 
