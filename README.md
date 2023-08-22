@@ -42,5 +42,8 @@ Experience the future of programming with Cnode – where the art of code meets 
 
 
 
-
-
+   ______                __   
+  / ____/___  ____  ____/ /__ 
+ / /   / __ \/ __ \/ __  / _ \
+/ /___/ / / / /_/ / /_/ /  __/
+\____/_/ /_/\____/\__,_/\___/ 
