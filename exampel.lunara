@@ -2,7 +2,7 @@
 
 const data{int} = 5
 
-fn entry hi(text{str}){
+fn hi(text{str}){
     output(text)
 }
 
