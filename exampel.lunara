@@ -1,0 +1,15 @@
+!Comment
+
+const data{int} = 5
+
+fn entry hi(text{str}){
+    output(text)
+}
+
+fn input(prompt{str}) expect{str}{
+    var user_input{str} = input(prompt)
+    return user_input
+
+fn add(num1{int}, num2{int}) expect{int}{
+    return num1 + num2
+}
