@@ -1,15 +1,21 @@
 !Comment
 
 const data{int} = 5
+const data2{str} = "hi"
+const data3{bool} = True
 
 fn hi(text{str}){
     output(text)
 }
 
-fn input(prompt{str}) expect{str}{
+fn user_input(prompt{str}){
     var user_input{str} = input(prompt)
     return user_input
 
-fn add(num1{int}, num2{int}) expect{int}{
+fn add(num1{int}, num2{int}){
     return num1 + num2
 }
+
+hi("lunara is fun")
+output(user_input("hi:"))
+num3{int} = add(5, 5)
