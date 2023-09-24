@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='lunara-game-framework',
+    name='lunara',
     version='0.1.0',
     description='Lunara Game Framework - A Python game development framework for Hypersonic Games',
     long_description='Lunara Game Framework is a Python game development framework for Hypersonic Games that is open sorce so that you can contribute too or use the framework that powers most of our games.',
@@ -10,7 +10,7 @@ setup(
     license='GPL-3.0',
     packages=find_packages(),
     install_requires=[
-        # Add your dependencies here
+        'pygame',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
