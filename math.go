@@ -1,4 +1,4 @@
-package lunara
+package lunara_framework
 
 import (
 	"errors"
